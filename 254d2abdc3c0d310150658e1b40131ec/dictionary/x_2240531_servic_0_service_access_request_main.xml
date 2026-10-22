@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="b454d331c388d310150658e1b401315d" extends="task" label="Service access request main" max_length="40" name="x_2240531_servic_0_service_access_request_main" type="collection">
+        <element choice="1" label="Risk Level" max_length="40" name="risk_level" type="choice">
+            <choice/>
+        </element>
+        <element label="Requested Date" max_length="40" name="requested_date" type="glide_date"/>
+        <element choice="3" label="Service" max_length="40" name="service" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="AWS" sequence="2" value="aws"/>
+                <element inactive_on_update="false" label="Database" sequence="4" value="database"/>
+                <element inactive_on_update="false" label="VPN" sequence="1" value="vpn"/>
+                <element inactive_on_update="false" label="Github" sequence="3" value="github"/>
+            </choice>
+        </element>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice/>
+        </element>
+        <element label="Requested For" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <element label="Business Justification" max_length="4000" name="business_justification" type="string"/>
+        <element label="Requested By" max_length="32" name="requested_by" reference="sys_user" type="reference"/>
+        <element label="End Date" max_length="40" name="end_date" type="glide_date"/>
+    </element>
+</database>

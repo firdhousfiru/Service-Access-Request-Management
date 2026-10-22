@@ -4,13 +4,167 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-10-21 08:45:10</sys_created_on>
-            <sys_id>75c07239c304d310150658e1b40131f2</sys_id>
+            <sys_created_on>2026-10-22 06:51:41</sys_created_on>
+            <sys_id>15602bc2c3409710150658e1b40131c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_2240531_servic_0_service_access_request_management" sys_domain="global" view="Default view">7dc0f2f5c304d310150658e1b4013101</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-10-21 08:45:10</sys_updated_on>
+            <sys_updated_on>2026-10-22 06:51:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_for</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-22 06:51:41</sys_created_on>
+            <sys_id>d9602bc2c3409710150658e1b40131c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2240531_servic_0_service_access_request_management" sys_domain="global" view="Default view">7dc0f2f5c304d310150658e1b4013101</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-22 06:51:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_by</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-22 06:51:41</sys_created_on>
+            <sys_id>59602bc2c3409710150658e1b40131ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2240531_servic_0_service_access_request_management" sys_domain="global" view="Default view">7dc0f2f5c304d310150658e1b4013101</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-22 06:51:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-22 06:51:41</sys_created_on>
+            <sys_id>d5602bc2c3409710150658e1b40131cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2240531_servic_0_service_access_request_management" sys_domain="global" view="Default view">7dc0f2f5c304d310150658e1b4013101</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-22 06:51:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>risk_level</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-22 06:51:41</sys_created_on>
+            <sys_id>55602bc2c3409710150658e1b40131cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2240531_servic_0_service_access_request_management" sys_domain="global" view="Default view">7dc0f2f5c304d310150658e1b4013101</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-22 06:51:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_justifiction</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-22 06:51:41</sys_created_on>
+            <sys_id>d1602bc2c3409710150658e1b40131cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2240531_servic_0_service_access_request_management" sys_domain="global" view="Default view">7dc0f2f5c304d310150658e1b4013101</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-22 06:51:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-22 06:51:41</sys_created_on>
+            <sys_id>51602bc2c3409710150658e1b40131ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2240531_servic_0_service_access_request_management" sys_domain="global" view="Default view">7dc0f2f5c304d310150658e1b4013101</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-22 06:51:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_date</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-22 06:51:41</sys_created_on>
+            <sys_id>dd602bc2c3409710150658e1b40131ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2240531_servic_0_service_access_request_management" sys_domain="global" view="Default view">7dc0f2f5c304d310150658e1b4013101</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-22 06:51:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-22 06:51:41</sys_created_on>
+            <sys_id>5d602bc2c3409710150658e1b40131cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2240531_servic_0_service_access_request_management" sys_domain="global" view="Default view">7dc0f2f5c304d310150658e1b4013101</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-22 06:51:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-22 06:51:41</sys_created_on>
+            <sys_id>d9602bc2c3409710150658e1b40131d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2240531_servic_0_service_access_request_management" sys_domain="global" view="Default view">7dc0f2f5c304d310150658e1b4013101</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-22 06:51:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-22 06:51:41</sys_created_on>
+            <sys_id>59602bc2c3409710150658e1b40131d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2240531_servic_0_service_access_request_management" sys_domain="global" view="Default view">7dc0f2f5c304d310150658e1b4013101</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-22 06:51:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-22 06:51:41</sys_created_on>
+            <sys_id>d5602bc2c3409710150658e1b40131d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2240531_servic_0_service_access_request_management" sys_domain="global" view="Default view">7dc0f2f5c304d310150658e1b4013101</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-22 06:51:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
